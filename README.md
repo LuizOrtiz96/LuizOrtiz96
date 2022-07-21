@@ -2,7 +2,7 @@
 <h2>Back-End Developer 💻</h2>
 <div align="left">
   <a href="https://github.com/LuizOrtiz96">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizOrtiz96&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizOrtiz96&show_icons=true&theme=bluegreen&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizOrtiz96&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 <div style="display: inline_block"><br>
