@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizOrtiz96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizOrtiz96&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Java" height="30" width="81" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Luiz-Spring" height="30" width="80" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
