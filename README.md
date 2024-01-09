@@ -1,11 +1,5 @@
 
-<h2>Back-End Developer 💻</h2>
-
-<div align="center">
-  <a href="https://github.com/LuizOrtiz96">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizOrtiz96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizOrtiz96&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<h2>Analista de Sistemas e Desenvolvedor Back-End 💻</h2>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Java" height="30" width="81" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -24,6 +18,4 @@
     <a href="https://instagram.com/luh_ortiz" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
     <a href = "mailto:luizortiz2010@hotmail.com" target="blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="blank"></a>
     <a href="https://www.linkedin.com/in/luiz-ortiz-024b9789/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
-    
-       
   </div>
