@@ -19,12 +19,7 @@ Dentre os meus principais conhecimentos profissionais vale destacar:
   <li>Redes: Noções básicas.</li>
   <li>Cloud: Azure (Certificação AI900), GCP (Certificação Google Cloud Fundations), AWS (Certificação AWS Cloud Practitioner).</li>
 </ul>
-Além disso, possuo Inglês intermediário e amplo conhecimento no Pacote Office.</p>
-
-[![My Skills](https://skills.thijs.gg/icons?i=java,spring,docker,jquery,js,react,html,css,aws,azure,gcp,mysql,git&theme=light)](https://skills.thijs.gg)
-
   <div>
-    <a href="https://instagram.com/luh_ortiz" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
     <a href = "mailto:luizortiz2010@hotmail.com" target="blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="blank"></a>
     <a href="https://www.linkedin.com/in/luiz-ortiz-024b9789/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
   </div>
